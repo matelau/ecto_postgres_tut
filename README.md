@@ -15,4 +15,12 @@ This Tutorial was motivated by Lew Parker's comments on Ecto at https://www.glyd
 - To get started run mix test
 - Go through and make modifications of tests & modules until you create a valid solution
 
+### Topics
+
+- Ecto SQL Basics (From, Where)
+- Preloads (Associations & Bindings)
+- Joins
+- Select Variations
+- Fragments
+
 ## Changesets
